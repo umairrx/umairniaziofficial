@@ -15,7 +15,7 @@
 
 <div align="center" style="margin: 40px 0;">
   <h2>🏆 Milestones</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=umairniaziofficial&theme=gruvbox&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=umairrx&theme=gruvbox&no-frame=true&row=1&column=6" />
 </div>
 
 
